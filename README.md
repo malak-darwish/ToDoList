@@ -3,12 +3,13 @@
 
 1. Clone the repository
 git clone https://github.com/malak-darwish/ToDoList.git
+
 cd ToDoList
 
-2. Install dependencies
+3. Install dependencies
 npm install
 
-3. Run the app
+4. Run the app
 
 npm run dev
 
